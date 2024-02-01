@@ -1,5 +1,5 @@
 # Projet_academique
-FENG_Yijun_projet_académique
+Junjun_projet_académique
 
 BERT_sentiment.ipynb - Sentiment analyze with BERT
 
